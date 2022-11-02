@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DamasioEdu;
 - 👀 I’m looking for carreer transition, and become a dev;
-- 🌱 I’m currently learning program language in PHP 7;
+- 🌱 I’m currently learning program language in Python;
 - 💞️ I’m looking to collaborate on good projects and aggregate on this community;
 - 💞️ Also... I'm a poker player;
 - 📫 Contact me on email or instagram (get both below);
